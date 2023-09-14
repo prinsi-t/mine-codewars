@@ -7,6 +7,7 @@ function setAlarm(employed, vacation){
     }
     return false;
 }
+//bopbo
 console.log(setAlarm(false,true));
 
 /* function setAlarm(employed, vacation){
