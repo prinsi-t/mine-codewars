@@ -9,7 +9,7 @@ function whoseMove(lastPlayer, win) {
     }else if(lastPlayer === 'black' && win === true){
         return 'black'
     }
-    //return win? lastPlayer: lastPlayer ===' black' ? 'white' : 'black';
+ 
   }
 
   console.log(whoseMove('black',false));
