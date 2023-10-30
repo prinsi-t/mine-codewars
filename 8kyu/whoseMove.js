@@ -1,5 +1,5 @@
 function whoseMove(lastPlayer, win) {
-    //coding and coding..
+    
     if(lastPlayer === 'black' && win === false){
         return 'white'
     }else if(lastPlayer === 'white' && win === false){
